@@ -10,7 +10,7 @@ App for finding food trucks near a specific location on a map.
 1. Clone this repository:
 
     ```
-    git clone https://github.com/evernaschi/...
+    git clone https://github.com/evernaschi/challenge_kindalab.git
     ```
 
 1. In the app directory, create an '.env' file containing:
@@ -47,11 +47,6 @@ App for finding food trucks near a specific location on a map.
     python manage.py runserver
     ```
 
-1. Go to:
-
-    ```
-    Go to http://127.0.0.1:8000/ in your browser.
-    ```
  
 1. Run the tests:
 
