@@ -48,6 +48,12 @@ https://kindalabe.fly.dev/
   
 1. In settings.py file set DEBUG to True.
 
+1. Install all packages:
+
+    ```
+    npm install
+    ```
+
 1. Compile and serve the assets by running:
 
     ```
